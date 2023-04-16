@@ -1,10 +1,6 @@
 # Import necessary libraries
 import pandas as pd
-import matplotlib as mpl
 import matplotlib.pyplot as plt
-import matplotlib.dates
-import numpy as np
-import matplotlib.ticker as ticker
 
 # Defined function to extract specific values in the water temperature dataframe later
 def string_exterminator(cell):
