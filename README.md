@@ -5,11 +5,11 @@ This project is related to a homework assignment in METR 3334: Principles of Res
 ## Figure
 ![image](https://user-images.githubusercontent.com/130492486/232520526-c651f7cc-3c2c-4fc1-82ac-629330da393c.png)
 
-<sub>Figure 1 from Winter Weather Forecasting Throughout the Eastern United States. Part IV: Lake Effect Snow</sub>
+Figure 1 from Winter Weather Forecasting Throughout the Eastern United States. Part IV: Lake Effect Snow
 
 ![image](https://user-images.githubusercontent.com/130492486/232520710-069919a8-9c11-4a7f-870d-d881f14cd1dd.png)
 
-<sub>Figure Reproduced </sub>
+Figure Reproduced 
 
 ## Reference
 Niziol, T. A., W. R. Snyder, and J. S. Waldstreicher, 1995: Winter Weather Forecasting throughout the Eastern United States. Part IV: Lake Effect Snow. Weather and Forecasting, 10, 61–77, https://doi.org/10.1175/1520-0434(1995)010<0061:WWFTTE>2.0.CO;2.
