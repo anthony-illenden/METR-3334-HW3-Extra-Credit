@@ -9,7 +9,7 @@ Figure 1 from Winter Weather Forecasting Throughout the Eastern United States. P
 
 ![image](https://user-images.githubusercontent.com/130492486/232520710-069919a8-9c11-4a7f-870d-d881f14cd1dd.png)
 
-Figure 1 Reproduced 
+Figure 1 Reproduced (METR 3334; HW3 GitHub.py)
 
 ## Reference
 Niziol, T. A., W. R. Snyder, and J. S. Waldstreicher, 1995: Winter Weather Forecasting throughout the Eastern United States. Part IV: Lake Effect Snow. Weather and Forecasting, 10, 61–77, https://doi.org/10.1175/1520-0434(1995)010<0061:WWFTTE>2.0.CO;2.
