@@ -96,13 +96,13 @@ fig, ax = plt.subplots()
 ax.plot(df_wt.index, df_wt['Temp'], color = 'blue', label = 'Water',zorder=3)
 ax.plot(df_t['Month'], df_t['Temp'], color = 'red', linestyle = '--', label = 'Air',zorder=3)
 
-# Plot vertical line
+# Plot the vertical lines
 ax.axvline(x=0.75, color='black',zorder=1)
 ax.axvline(x=3.65, color='black',zorder=1)
 ax.axvline(x=6.625, color='black',zorder=1)
 ax.axvline(x=7.8, color='black',zorder=1)
 
-# Plot text labels on the figure 
+# Plot the text labels 
 ax.text(1.15, 85, f'Lake-effect \nRain Season', fontsize=10, zorder=2)
 ax.text(4, 75, f'Lake-effect \nSnow Season', fontsize=10,zorder=2)
 ax.text(6.65, 65, f'Frozen \nLake', fontsize=10,zorder=2)
